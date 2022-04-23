@@ -1,4 +1,4 @@
-## Data-Visualisation  
+## Data-Visualization  
 
 > ### Python
 -  Top romanian fotball teams by points. 
